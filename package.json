@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer_cn_config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve":"node index.js"
+  },
+  "author": "zhimoe",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^22.6.4"
+  }
+}
